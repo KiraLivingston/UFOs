@@ -11,7 +11,9 @@ The purpose of this challenge is to create filters in a table using javacript to
 ## Resources
 
 *Javascript
+
 *HTML
+
 *css
 
 ## Analysis
