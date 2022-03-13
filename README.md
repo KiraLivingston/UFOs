@@ -4,7 +4,7 @@ The purpose of this challenge is to create filters in a table using javacript to
 
 ## Objectives
 
-*Use Javascript to modify the index.html file to create additional table filters
+Use Javascript to modify the index.html file to create additional table filters
 * Add additional filters for the city, state, country, and shape
 * Create a new function that will loop through dataset to keep only the results of the filtered data
 
